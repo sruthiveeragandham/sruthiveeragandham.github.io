@@ -7,10 +7,10 @@ permalink:        pretty
 
 # Setup
 title:            Sruthi Veeragandham
-# tagline:          'Hello!'
+# tagline:        'Hello!'
 description:      'Welcome to my website!' 
 url:              https://sruthiveeragandham.github.io
-baseurl:          /
+baseurl:          ''
 
 author:
   name:           'Sruthi Veeragandham'
@@ -20,6 +20,7 @@ paginate:         5
 
 # Gems
 gem: [jekyll-paginate, jekyll-gists, redcarpet]
+plugins: [jekyll-paginate]
 
 # Custom vars
 # version:          2.1.0
