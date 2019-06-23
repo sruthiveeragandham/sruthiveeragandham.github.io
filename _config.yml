@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Sruthi Veeragandham
+# tagline:          'Hello!'
+description:      'Welcome to my website!' 
+url:              https://sruthiveeragandham.github.io
+baseurl:          /
+
+author:
+  name:           'Sruthi Veeragandham'
+#  url:            https://twitter.com/sruthiv15
+
+paginate:         5
+
+# Gems
+gem: [jekyll-paginate, jekyll-gists, redcarpet]
+
+# Custom vars
+# version:          2.1.0
+
+github:
+  repo:           https://github.com/sruthiveeragandham/sruthiveeragandham.github.io
