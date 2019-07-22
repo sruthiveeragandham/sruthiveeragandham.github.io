@@ -22,11 +22,15 @@ Unless otherwise noted, all resources below were made by me, and if you'd like t
 - [Discussion 13: Virtual Memory](https://docs.google.com/presentation/d/16jtoCJ_73hLMfAyAXuR8dV_bai7HG1YHRHt3n9RvZnM/edit?usp=sharing)
 
 ## Supplementary Notes and Slides
+
+#### Made by Me
 - [Number Representation](https://docs.google.com/document/d/13WJIY2ynITrsOeAlxGRkOXgIwgVKsW00dr5Bzh75TSE/edit?usp=sharing)
 - [Caches: Notes](https://docs.google.com/document/d/1LP3Sal3_dRt40LQe1G_6fCEwJ-ULREXsSbXd954F8mg/edit#heading=h.ku59th162dzk)
 - [Caches: Slides](https://docs.google.com/presentation/d/1PogMXg3aNNSwPloaq63Y3gnqX60GL8ayR4jaYdjHh0I/edit#slide=id.g354109f861_0_37)
 
-I'm not sure who made these (it wasn't me!), but I personally found them very useful as a student: [C and Memory Notes](https://d1b10bmlvqabco.cloudfront.net/attach/j6fe5friemd22w/hzd1madqsie3ts/j7kw6i4tmqf8/61C_Note_1_Memory.pdf) 
+#### Not Made by Me
+- [Guide to printf](https://students.cs.byu.edu/~clement/cs224/references/miscellaneous/printf.pdf) (credit: Prof. Don Colton of BYU Hawaii)
+- [C and Memory Notes](https://d1b10bmlvqabco.cloudfront.net/attach/j6fe5friemd22w/hzd1madqsie3ts/j7kw6i4tmqf8/61C_Note_1_Memory.pdf) (credit: Fall 2017 CS 61C Course Staff) 
 
 ## Exam Resources
 - [Exam Questions, sorted by topic](https://docs.google.com/document/d/1uMZREWBVfOFu_2RUZNf6zrQ28Y5dsrkDGWkXmuHZ9Nk/edit?usp=sharing)
