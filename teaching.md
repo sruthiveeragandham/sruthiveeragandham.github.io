@@ -3,13 +3,20 @@ layout: page
 title: Teaching Resources
 ---
 
+<!--
 <p class="message">
   Hey there! I'm not a UGSI for the current offering of CS 61C (Summer 2019) but I'll be back in the fall. Feel free to look at my resources below from Spring 2019.
 </p>
+-->
 
 Unless otherwise noted, all resources below were made by me, and if you'd like to see them & don't have access (they're mostly on Google Drive), shoot me and e-mail and let me know. 
 
 ## Discussion Slides
+
+### Fall 2019
+- Coming soon!
+
+### Spring 2019
 - [Discussion 1: C and Memory Management](https://docs.google.com/presentation/d/1SdiQDAQOZsGPGqGEtBjZvP3dGErI65Rg_neXQplz4MY/edit?usp=sharing)
 - [Discussion 2: RISC-V Intro](https://docs.google.com/presentation/d/1RGpuCCvSFySQQ2b5s6ipwSE9IeG4e5le9sbO_E9J-MY/edit?usp=sharing)
 - [Discussion 3: RISC-V Continued + CALL](https://docs.google.com/presentation/d/1LxuHTN9cvWCKRiM8613OIDBGZQ1HaRRK-vJKfgDIENw/edit?usp=sharing)
