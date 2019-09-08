@@ -11,10 +11,14 @@ title: Teaching Resources
 
 Unless otherwise noted, all resources below were made by me, and if you'd like to see them & don't have access (they're mostly on Google Drive), shoot me and e-mail and let me know. 
 
+## Email List
+
+Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdPYF0kmLbWxWw8NjkrlGQe-dkBdHnZWnMn0QCXxg1dYzHSZA/viewform) if you'd like to be removed from/added to my e-mail list for 61C resources.
+
 ## Discussion Slides
 
 ### Fall 2019
-- Coming soon!
+- [Discussion 1: Number Representation](https://docs.google.com/presentation/d/1LJ-J-LB2UaqHBVE-hLrY0U7IjAh6khiiIaRQQxu_fV8/edit?usp=sharing)
 
 ### Spring 2019
 - [Discussion 1: C and Memory Management](https://docs.google.com/presentation/d/1SdiQDAQOZsGPGqGEtBjZvP3dGErI65Rg_neXQplz4MY/edit?usp=sharing)
