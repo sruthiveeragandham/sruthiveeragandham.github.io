@@ -19,6 +19,7 @@ Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdPYF0kmLbW
 
 ### Fall 2019
 - [Discussion 1: Number Representation](https://docs.google.com/presentation/d/1LJ-J-LB2UaqHBVE-hLrY0U7IjAh6khiiIaRQQxu_fV8/edit?usp=sharing)
+- [Discussion 2: C](https://docs.google.com/presentation/d/1_gkJMKb7vtwkYwpk4KAEsf_A6jMjYNDDVZPWX3cBKpc/edit#slide=id.p)
 
 ### Spring 2019
 - [Discussion 1: C and Memory Management](https://docs.google.com/presentation/d/1SdiQDAQOZsGPGqGEtBjZvP3dGErI65Rg_neXQplz4MY/edit?usp=sharing)
@@ -36,6 +37,7 @@ Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdPYF0kmLbW
 
 #### Made by Me
 - [Number Representation](https://docs.google.com/document/d/13WJIY2ynITrsOeAlxGRkOXgIwgVKsW00dr5Bzh75TSE/edit?usp=sharing)
+- [C (Accompanies Fa19 Disc2)](https://docs.google.com/document/d/1ejRqV4s2yO3MMptvEm50CUICc3lW2DhQXejEUL-L08Y/edit?usp=sharing)
 - [Caches: Notes](https://docs.google.com/document/d/1LP3Sal3_dRt40LQe1G_6fCEwJ-ULREXsSbXd954F8mg/edit#heading=h.ku59th162dzk)
 - [Caches: Slides](https://docs.google.com/presentation/d/1PogMXg3aNNSwPloaq63Y3gnqX60GL8ayR4jaYdjHh0I/edit#slide=id.g354109f861_0_37)
 
