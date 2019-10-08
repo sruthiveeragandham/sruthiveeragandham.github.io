@@ -20,6 +20,10 @@ Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdPYF0kmLbW
 ### Fall 2019
 - [Discussion 1: Number Representation](https://docs.google.com/presentation/d/1LJ-J-LB2UaqHBVE-hLrY0U7IjAh6khiiIaRQQxu_fV8/edit?usp=sharing)
 - [Discussion 2: C](https://docs.google.com/presentation/d/1_gkJMKb7vtwkYwpk4KAEsf_A6jMjYNDDVZPWX3cBKpc/edit#slide=id.p)
+- Discussion 3: No slides, answered Quest-related questions
+- [Discussion 4: RISC-V Coding](https://docs.google.com/presentation/d/1vm6zlro3KKGJKWF9e27P6ImEZ8ZXZ0YCRV3Hj-AWdh8/edit?usp=sharing)
+- [Discussion 5: RISC-V Instruction Formats, CALL](https://docs.google.com/presentation/d/1mjQEef0eXgeom1L7-kTHHI994Wne0VFcUzHz4_o2VLk/edit?usp=sharing)
+- Discussion 6: No slides, wrote on the whiteboard
 
 ### Spring 2019
 - [Discussion 1: C and Memory Management](https://docs.google.com/presentation/d/1SdiQDAQOZsGPGqGEtBjZvP3dGErI65Rg_neXQplz4MY/edit?usp=sharing)
