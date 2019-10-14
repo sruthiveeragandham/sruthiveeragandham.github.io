@@ -24,6 +24,7 @@ Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdPYF0kmLbW
 - [Discussion 4: RISC-V Coding](https://docs.google.com/presentation/d/1vm6zlro3KKGJKWF9e27P6ImEZ8ZXZ0YCRV3Hj-AWdh8/edit?usp=sharing)
 - [Discussion 5: RISC-V Instruction Formats, CALL](https://docs.google.com/presentation/d/1mjQEef0eXgeom1L7-kTHHI994Wne0VFcUzHz4_o2VLk/edit?usp=sharing)
 - Discussion 6: No slides, wrote on the whiteboard
+- [Discussion 7: Single-Cycle Datapath](https://docs.google.com/presentation/d/1Avk5CEv4MnbuSmaYIQzo2e9QaWM4SWmu7dk4ZEqJKC4/edit?usp=sharing)
 
 ### Spring 2019
 - [Discussion 1: C and Memory Management](https://docs.google.com/presentation/d/1SdiQDAQOZsGPGqGEtBjZvP3dGErI65Rg_neXQplz4MY/edit?usp=sharing)
