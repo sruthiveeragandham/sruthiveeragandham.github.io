@@ -6,9 +6,10 @@ title: About Me
 <style>
       .circular--square {
         border-radius: 50%;
+        width: 25%;
       }
 </style>
-<img src="https://sruthiveeragandham.github.io/public/4E2892D8-80BE-4AD3-A479-9C09C404AFC9.jpeg" alt="A picture of me (Sruthi) at a restaurant, taken by my friend Catherine Han!" class="circular--square"/>
+<img src="https://sruthiveeragandham.github.io/public/IMG_0931.JPG" alt="A picture of me (Sruthi) at a restaurant, taken by my friend Catherine Han!" class="circular--square"/>
     
 
 Hello! I'm Sruthi Veeragandham. I'm currently finishing up my last semester as an undergraduate at the University of California, Berkeley, where I'm a Microbial Biology major and Computer Science minor. I'll be graduating in December 2019, after which I'll be working as a software engineer.
