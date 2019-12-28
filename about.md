@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Hello! I'm Sruthi Veeragandham. I graduated from the University of California, Berkeley in December 2019, where I majored in Microbial Biology and minored in Computer Science. (I initially took computer science classes so I'd be able to effectively manage and analyze 16S sequencing data, but I ended up really falling in love with operating systems and computer architecture.) Starting February 2020, I'll be working as a software engineer.
+Hello! I'm Sruthi Veeragandham. In December 2019, I graduated from the University of California, Berkeley, where I majored in Microbial Biology and minored in Computer Science. (I initially took computer science classes so I'd be able to effectively manage and analyze 16S sequencing data, but I ended up really falling in love with operating systems and computer architecture.) Starting February 2020, I'll be working as a software engineer.
 
 In my last year at Berkeley, [I was a TA](/teaching) for UC Berkeley's introductory computer architecture course, [CS 61C](https://cs61c.org). Before switching gears towards computer science, I spent a couple years as a research assistant in the [Coleman-Derr Lab](https://pgec.berkeley.edu/coleman-derr-lab-0), which studies the root microbiome of drought-stressed cereal crops. In Summer 2019, I was in New York City, working as a software engineering intern on the embedded systems team at [Andium](https://andium.com). 
 
