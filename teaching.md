@@ -3,18 +3,6 @@ layout: page
 title: Teaching Resources
 ---
 
-<!--
-<p class="message">
-  Hey there! I'm not a UGSI for the current offering of CS 61C (Summer 2019) but I'll be back in the fall. Feel free to look at my resources below from Spring 2019.
-</p>
--->
-
-Unless otherwise noted, all resources below were made by me, and if you'd like to see them & don't have access (they're mostly on Google Drive), shoot me and e-mail and let me know. 
-
-## Email List
-
-Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdPYF0kmLbWxWw8NjkrlGQe-dkBdHnZWnMn0QCXxg1dYzHSZA/viewform) if you'd like to be removed from/added to my e-mail list for 61C resources.
-
 ## Discussion Slides
 
 ### Fall 2019
@@ -45,11 +33,3 @@ Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdPYF0kmLbW
 - [C (Accompanies Fa19 Disc2)](https://docs.google.com/document/d/1ejRqV4s2yO3MMptvEm50CUICc3lW2DhQXejEUL-L08Y/edit?usp=sharing)
 - [Caches: Notes](https://docs.google.com/document/d/1LP3Sal3_dRt40LQe1G_6fCEwJ-ULREXsSbXd954F8mg/edit#heading=h.ku59th162dzk)
 - [Caches: Slides](https://docs.google.com/presentation/d/1PogMXg3aNNSwPloaq63Y3gnqX60GL8ayR4jaYdjHh0I/edit#slide=id.g354109f861_0_37)
-
-#### Not Made by Me
-- [Guide to printf](https://students.cs.byu.edu/~clement/cs224/references/miscellaneous/printf.pdf) (credit: Prof. Don Colton of BYU Hawaii)
-- [C and Memory Notes](https://d1b10bmlvqabco.cloudfront.net/attach/j6fe5friemd22w/hzd1madqsie3ts/j7kw6i4tmqf8/61C_Note_1_Memory.pdf) (credit: Fall 2017 CS 61C Course Staff) 
-
-## Exam Resources
-- [Exam Questions, sorted by topic](https://docs.google.com/document/d/1uMZREWBVfOFu_2RUZNf6zrQ28Y5dsrkDGWkXmuHZ9Nk/edit?usp=sharing)
-- [Midterm 2 Study Guide](https://docs.google.com/document/d/13WJIY2ynITrsOeAlxGRkOXgIwgVKsW00dr5Bzh75TSE/edit?usp=sharing)
