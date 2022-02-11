@@ -27,8 +27,6 @@ title: Teaching Resources
 - [Discussion 13: Virtual Memory](https://docs.google.com/presentation/d/16jtoCJ_73hLMfAyAXuR8dV_bai7HG1YHRHt3n9RvZnM/edit?usp=sharing)
 
 ## Supplementary Notes and Slides
-
-#### Made by Me
 - [Number Representation](https://docs.google.com/document/d/13WJIY2ynITrsOeAlxGRkOXgIwgVKsW00dr5Bzh75TSE/edit?usp=sharing)
 - [C (Accompanies Fa19 Disc2)](https://docs.google.com/document/d/1ejRqV4s2yO3MMptvEm50CUICc3lW2DhQXejEUL-L08Y/edit?usp=sharing)
 - [Caches: Notes](https://docs.google.com/document/d/1LP3Sal3_dRt40LQe1G_6fCEwJ-ULREXsSbXd954F8mg/edit#heading=h.ku59th162dzk)
