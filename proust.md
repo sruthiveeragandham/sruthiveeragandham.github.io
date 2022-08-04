@@ -1,6 +1,6 @@
 ---
 layout: page
-title: _In Search of Lost Time_ Book Club
+title: In Search of Lost Time Book Club
 ---
 
 ## Who? 
